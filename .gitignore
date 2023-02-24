@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Custom Weather Client Tool/bin
+/Custom Weather Client Tool/obj
+/packages
